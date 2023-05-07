@@ -17,4 +17,5 @@ El producto final permite hacer varias cosas:
 *Borrar selectivamente clases de un solo mes en caso de tener deudas que abarquen más meses y hayan pagado uno solo.
 
 Es el primer programa mínimamente complejo que escribí y le tengo cariño. Me sirvió para reforzar todos los conceptos básicos del curso py4e y lo usé todos los días durante un año, hasta que junté varios proyectitos en uno solo que hace todo esto y más interactuando con el calendario de Google. Está aca: https://github.com/Earoisn/calmgr.
+
 No creo que le sirva a nadie más, queda de recuerdo.
